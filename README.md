@@ -23,5 +23,5 @@ const info = {
 };
 ```
 
-<h2>😸 That's my cats :)</h2>
+<h2>😸 These are my cats :)</h2>
 <img src="https://github.com/K-Mazur/K-Mazur/blob/main/img/hana_yuki.gif?raw=true" width="600" alt="" />
