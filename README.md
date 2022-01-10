@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>👋 Hi, I'm Kamil Mazur</h2>
+<img align='right' src="https://kamilmazur.pl/mail/images/kamil-1x1-circle.png" width="200" alt="" />
+<p><em>A full stack developer based in Kielce / Cracow, Poland 🇵🇱</em></p>
+<p><em>Working as a Lead Developer at <a href="https://github.com/zenefits">Zenefits</a> 🇺🇸 / <a href="https://frompolandwithdev.com/">FromPolandWithDev</a> 🇵🇱</em></p>
 
-<!--
-**K-Mazur/K-Mazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 Tech Stack</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JavaScript
+const info = {
+  code: ["JavaScript", "ES6", "TypeScript", "PHP", "Node.js", "SCSS", "CSS", "HTML"],
+  someTools: [
+    "React", "Redux", "Angular",
+    "Laravel", "Firebase", "AWS",
+    "Laravel Forge", "Cypress", "Wordpress",
+    "Bootstrap", "MUI", "Storybook"
+  ],
+  database: ["MySQL", "PostgreSQL", "MongoDB"],
+  CI_CD: ["Buddy", "GitLab CI/CD", "GitHub Actions"],
+};
+```
