@@ -7,7 +7,11 @@
 
 ```JavaScript
 const info = {
-  code: ["JavaScript", "ES6", "TypeScript", "PHP", "Node.js", "SCSS", "CSS", "HTML"],
+  code: [
+    "JavaScript", "ES6", "TypeScript",
+    "PHP", "Node.js", "SCSS",
+    "CSS", "HTML"
+  ],
   someTools: [
     "React", "Redux", "Angular",
     "Laravel", "Firebase", "AWS",
