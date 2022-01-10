@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Kamil Mazur</h2>
-<img align='right' src="https://kamilmazur.pl/mail/images/kamil-1x1-circle.png" width="200" alt="" />
+<img align='right' src="https://github.com/K-Mazur/K-Mazur/blob/main/img/kamil-1x1-circle.png?raw=true" width="200" alt="" />
 <p><em>A full stack developer based in Kielce / Cracow, Poland 🇵🇱</em></p>
 <p><em>Working as a Lead Developer at <a href="https://github.com/zenefits">Zenefits</a> 🇺🇸 / <a href="https://frompolandwithdev.com/">FromPolandWithDev</a> 🇵🇱</em></p>
 
@@ -18,3 +18,6 @@ const info = {
   CI_CD: ["Buddy", "GitLab CI/CD", "GitHub Actions"],
 };
 ```
+
+<h2>😸 That's my lovely cats:</h2>
+<img src="https://github.com/K-Mazur/K-Mazur/blob/main/img/hana_yuki.gif?raw=true" width="600" alt="" />
