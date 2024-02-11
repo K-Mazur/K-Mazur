@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm <a href="https://kamilmazur.pl" target="_blank">Kamil Mazur</a></h2>
 <img align='right' src="https://github.com/K-Mazur/K-Mazur/blob/main/img/kamil-1x1-circle.png?raw=true" width="200" alt="" />
-<p><em>A full stack developer based in Kielce, Poland </em>🇵🇱</p>
-<p><em>Working as an Engineering Director at <a href="https://mozaiq.team/">Mozaiq</a> </em>🇺🇸</p>
+<p><em>A full stack web developer based in Kielce, Poland </em>🇵🇱</p>
+<p><em>Working as an Engineering Director at <a href="https://mozaiq.team/" target="_blank">Mozaiq</a> </em>🇺🇸</p>
 
 <h2>💻 Tech Stack</h2>
 
