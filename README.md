@@ -1,25 +1,33 @@
 <h2>👋 Hi, I'm <a href="https://kamilmazur.pl" target="_blank">Kamil Mazur</a></h2>
-<p><em>A full stack web developer based in Kielce, Poland </em>🇵🇱</p>
-<p><em>Working as an Engineering Director at <a href="https://www.mozaiq.com/" target="_blank">Mozaiq</a> </em>🇺🇸</p>
+<p><em>An engineering leader & full stack web developer based in Kielce, Poland </em>🇵🇱</p>
+<p><em>Director of Engineering at <a href="https://liftpilot.ai" target="_blank">LiftPilot</a> and <a href="https://www.mozaiq.com/" target="_blank">Mozaiq</a> </em>🇺🇸</p>
+<p><em>Leading teams, owning architecture & still coding every day </em>👨‍💻</p>
 
 <h2>💻 Tech Stack</h2>
 
 ```JavaScript
 const info = {
   code: [
-    "JavaScript", "ES6", "TypeScript", "Node.js",
-    "PHP", "Laravel",
-    "HTML", "CSS", "SCSS",
-    "React", "Redux", "Angular",
-    "Next.js", "Astro",
+    "TypeScript", "JavaScript", "Node.js",
+    "PHP", "HTML", "CSS", "SCSS",
   ],
-  otherToolsAndTechnologies: [
-    "Firebase", "AWS",
-    "Laravel Forge", "Cypress", "Wordpress",
-    "Bootstrap", "Storybook", "Bit"
+  frontend: ["React", "Next.js", "Astro", "GSAP"],
+  backend: ["Fastify", "Laravel", "REST APIs", "GraphQL"],
+  cms: ["WordPress", "WooCommerce", "Strapi"],
+  aiEngineering: [
+    "LLMs & prompt engineering", "LangChain", "LangSmith",
+    "vector databases", "Claude Code", "Cursor",
   ],
-  database: ["MySQL", "PostgreSQL", "MongoDB"],
-  CI_CD: ["Buddy", "GitLab CI/CD", "GitHub Actions"],
+  cloudAndDevOps: [
+    "AWS", "Terraform", "Docker", "Cloudflare",
+    "Hetzner", "Firebase", "Laravel Forge", "WP Engine",
+  ],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB", "Redis"],
+  CI_CD: ["GitHub Actions", "GitLab CI/CD", "Buddy"],
+  qualityAndMonitoring: [
+    "Playwright", "Cypress", "Vitest", "PHPUnit",
+    "Sentry", "Grafana", "New Relic",
+  ],
 };
 ```
 
